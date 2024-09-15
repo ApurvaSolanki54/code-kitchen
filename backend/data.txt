@@ -1,0 +1,10 @@
+data:  {
+  stdout: 'aGVsbG8gd29ybGQK\n',
+  time: '0.012',
+  memory: 34516,
+  stderr: null,
+  token: 'e67b8a7b-0424-49a7-bcb5-0e9df2001e49',
+  compile_output: null,
+  message: null,
+  status: { id: 3, description: 'Accepted' }
+}
